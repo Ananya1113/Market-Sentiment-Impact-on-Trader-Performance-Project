@@ -14,40 +14,29 @@ e. Trade direction
 Exploratory data analysis and visualizations were used to compare performance across different sentiment conditions.
 Traders were also segmented based on risk level, trading frequency, and consistency.
 
+
 3. Key Insights
-
 A. Fear periods showed the highest trading activity and profitability
-
 B. Greed periods had lower win rates and weaker performance
-
 C. Traders placed larger trades during Extreme Greed
-
 D. Infrequent traders often earned higher profits than frequent traders
-
 E. High-risk traders performed well in Fear and Greed but poorly in Extreme Greed
+     Overall, market sentiment strongly influenced both trading behavior and performance.
 
-Overall, market sentiment strongly influenced both trading behavior and performance.
 
 4. Strategy Recommendations
-
 a. Reduce risk and position size during Extreme Greed periods
-
 b. Focus on fewer high-quality trades instead of overtrading
-
 c. Use Fear periods as high-opportunity phases with strong risk management
+     Adapting strategies based on market mood can improve returns and reduce losses.
 
-Adapting strategies based on market mood can improve returns and reduce losses.
 
 5. Limitations
-
 A. Limited overlapping dates between sentiment and trading data
-
 B. Other market factors such as volatility and price trends were not included
 
+
 6. Future Scope
-
 A. Use longer time periods for stronger analysis
-
 B. Include technical indicators and market signals
-
 C. Build predictive models to forecast trader performance
