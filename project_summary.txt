@@ -1,0 +1,41 @@
+Market Sentiment Impact on Trader Performance – Summary
+Methodology
+
+Two datasets were used: one containing market sentiment (Fear and Greed Index) and another containing detailed trader activity.
+After cleaning and converting timestamps to daily format, both datasets were merged by date.
+Key metrics such as daily profit and loss, trade frequency, win rate, trade size, and trade direction were created.
+Exploratory data analysis and visualizations were used to compare performance across different sentiment conditions.
+Traders were also grouped into segments based on risk level, trading frequency, and consistency.
+
+Insights
+
+Fear periods showed the highest trading activity and profitability
+
+Greed periods had lower win rates and weaker performance
+
+Traders placed larger trades during Extreme Greed
+
+Infrequent traders often earned higher profits than frequent traders
+
+High-risk traders performed well in Fear and Greed but poorly in Extreme Greed
+
+Overall, market sentiment clearly influenced both behavior and results.
+
+Strategy Recommendations
+
+Reduce risk and position size during Extreme Greed periods
+
+Focus on fewer high-quality trades instead of overtrading
+
+Use Fear periods as opportunity phases while applying strong risk control
+
+Adapting strategies based on market mood can improve performance and reduce losses.
+
+--> Limitations
+
+The analysis was limited by the number of overlapping dates between sentiment and trading data.
+Additional market factors such as volatility and price trends were not included.
+
+--> Future Scope
+
+Using longer time periods, adding technical indicators, and building predictive models can provide deeper insights.
