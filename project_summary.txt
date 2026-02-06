@@ -1,41 +1,53 @@
 Market Sentiment Impact on Trader Performance – Summary
-Methodology
 
-Two datasets were used: one containing market sentiment (Fear and Greed Index) and another containing detailed trader activity.
+1. Methodology
+Two datasets were used: one containing market sentiment (Fear and Greed Index) and another with detailed trader activity.
 After cleaning and converting timestamps to daily format, both datasets were merged by date.
-Key metrics such as daily profit and loss, trade frequency, win rate, trade size, and trade direction were created.
+
+2. Key metrics created included:
+a. Daily profit and loss (PnL)
+b. Trade frequency
+c. Win rate
+d. Trade size
+e. Trade direction
+
 Exploratory data analysis and visualizations were used to compare performance across different sentiment conditions.
-Traders were also grouped into segments based on risk level, trading frequency, and consistency.
+Traders were also segmented based on risk level, trading frequency, and consistency.
 
-Insights
+3. Key Insights
 
-Fear periods showed the highest trading activity and profitability
+A. Fear periods showed the highest trading activity and profitability
 
-Greed periods had lower win rates and weaker performance
+B. Greed periods had lower win rates and weaker performance
 
-Traders placed larger trades during Extreme Greed
+C. Traders placed larger trades during Extreme Greed
 
-Infrequent traders often earned higher profits than frequent traders
+D. Infrequent traders often earned higher profits than frequent traders
 
-High-risk traders performed well in Fear and Greed but poorly in Extreme Greed
+E. High-risk traders performed well in Fear and Greed but poorly in Extreme Greed
 
-Overall, market sentiment clearly influenced both behavior and results.
+Overall, market sentiment strongly influenced both trading behavior and performance.
 
-Strategy Recommendations
+4. Strategy Recommendations
 
-Reduce risk and position size during Extreme Greed periods
+a. Reduce risk and position size during Extreme Greed periods
 
-Focus on fewer high-quality trades instead of overtrading
+b. Focus on fewer high-quality trades instead of overtrading
 
-Use Fear periods as opportunity phases while applying strong risk control
+c. Use Fear periods as high-opportunity phases with strong risk management
 
-Adapting strategies based on market mood can improve performance and reduce losses.
+Adapting strategies based on market mood can improve returns and reduce losses.
 
---> Limitations
+5. Limitations
 
-The analysis was limited by the number of overlapping dates between sentiment and trading data.
-Additional market factors such as volatility and price trends were not included.
+A. Limited overlapping dates between sentiment and trading data
 
---> Future Scope
+B. Other market factors such as volatility and price trends were not included
 
-Using longer time periods, adding technical indicators, and building predictive models can provide deeper insights.
+6. Future Scope
+
+A. Use longer time periods for stronger analysis
+
+B. Include technical indicators and market signals
+
+C. Build predictive models to forecast trader performance
